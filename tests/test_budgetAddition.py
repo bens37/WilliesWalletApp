@@ -1,5 +1,5 @@
 import pytest
-from .. import budgetAddition
+from WilliesWalletApp import budgetAddition
 
 def test_add_to_budget():
     # Test case 1
