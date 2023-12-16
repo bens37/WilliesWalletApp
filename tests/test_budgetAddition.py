@@ -1,5 +1,5 @@
 import pytest
-from budgetAddition import add_to_budget
+from ..budgetAddition import add_to_budget
 
 def test_add_to_budget():
     # Test case 1
